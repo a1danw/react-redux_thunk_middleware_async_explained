@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/reat-redux_thunk_middleware_explained/static/js/main.f28ad9c0.chunk.js",
-    "main.js.map": "/reat-redux_thunk_middleware_explained/static/js/main.f28ad9c0.chunk.js.map",
-    "runtime-main.js": "/reat-redux_thunk_middleware_explained/static/js/runtime-main.6ac1a1dd.js",
-    "runtime-main.js.map": "/reat-redux_thunk_middleware_explained/static/js/runtime-main.6ac1a1dd.js.map",
-    "static/js/2.0d1b256b.chunk.js": "/reat-redux_thunk_middleware_explained/static/js/2.0d1b256b.chunk.js",
-    "static/js/2.0d1b256b.chunk.js.map": "/reat-redux_thunk_middleware_explained/static/js/2.0d1b256b.chunk.js.map",
-    "index.html": "/reat-redux_thunk_middleware_explained/index.html",
-    "static/js/2.0d1b256b.chunk.js.LICENSE.txt": "/reat-redux_thunk_middleware_explained/static/js/2.0d1b256b.chunk.js.LICENSE.txt"
+    "main.js": "/react-redux_thunk_middleware_async_explained/static/js/main.f28ad9c0.chunk.js",
+    "main.js.map": "/react-redux_thunk_middleware_async_explained/static/js/main.f28ad9c0.chunk.js.map",
+    "runtime-main.js": "/react-redux_thunk_middleware_async_explained/static/js/runtime-main.09690cf3.js",
+    "runtime-main.js.map": "/react-redux_thunk_middleware_async_explained/static/js/runtime-main.09690cf3.js.map",
+    "static/js/2.0d1b256b.chunk.js": "/react-redux_thunk_middleware_async_explained/static/js/2.0d1b256b.chunk.js",
+    "static/js/2.0d1b256b.chunk.js.map": "/react-redux_thunk_middleware_async_explained/static/js/2.0d1b256b.chunk.js.map",
+    "index.html": "/react-redux_thunk_middleware_async_explained/index.html",
+    "static/js/2.0d1b256b.chunk.js.LICENSE.txt": "/react-redux_thunk_middleware_async_explained/static/js/2.0d1b256b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ac1a1dd.js",
+    "static/js/runtime-main.09690cf3.js",
     "static/js/2.0d1b256b.chunk.js",
     "static/js/main.f28ad9c0.chunk.js"
   ]
