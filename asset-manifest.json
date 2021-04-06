@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/reat-redux_thunk_middleware_explained/static/js/main.b8f4a4e7.chunk.js",
-    "main.js.map": "/reat-redux_thunk_middleware_explained/static/js/main.b8f4a4e7.chunk.js.map",
+    "main.js": "/reat-redux_thunk_middleware_explained/static/js/main.f28ad9c0.chunk.js",
+    "main.js.map": "/reat-redux_thunk_middleware_explained/static/js/main.f28ad9c0.chunk.js.map",
     "runtime-main.js": "/reat-redux_thunk_middleware_explained/static/js/runtime-main.6ac1a1dd.js",
     "runtime-main.js.map": "/reat-redux_thunk_middleware_explained/static/js/runtime-main.6ac1a1dd.js.map",
     "static/js/2.0d1b256b.chunk.js": "/reat-redux_thunk_middleware_explained/static/js/2.0d1b256b.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.6ac1a1dd.js",
     "static/js/2.0d1b256b.chunk.js",
-    "static/js/main.b8f4a4e7.chunk.js"
+    "static/js/main.f28ad9c0.chunk.js"
   ]
 }
